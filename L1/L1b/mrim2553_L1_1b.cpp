@@ -5,6 +5,8 @@ using namespace std;
 
 void spiralSorrend(const int* matrix, int n, int* spiral)
 {
+    // https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzQzNWM2NDdkOTRmYTQ0M2ZhMWFlMzE3MmY2NWUxNjBlX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9mOTY2MzZkZi04ZmQ3LTQ3YmMtYWM5My1lZDc4M2E2MThiMTc=
+
     int sqrtN = sqrt(n);
 
     int felso = 0;
